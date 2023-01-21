@@ -1,4 +1,4 @@
 # ccsound
 messing with this stuff
 
-pastbin get 13m1VEjR playsound
+pastebin get 13m1VEjR play
